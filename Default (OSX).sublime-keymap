@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+command+right"], "command": "indent" },
+	{ "keys": ["ctrl+command+left"], "command": "unindent" },
+	{ "keys": ["ctrl+shift+."], "command": "erb" },
+	{ "keys": ["command+<"], "command": "toggle_side_bar" }
+]
