@@ -2,9 +2,13 @@
 	"auto_upgrade_last_run": 1348231330,
 	"installed_packages":
 	[
+		"BracketHighlighter",
+		"CoffeeScript",
+		"Cucumber",
 		"ERB Insert and Toggle Commands",
 		"Modific",
 		"Package Control",
+		"Sass",
 		"SideBarEnhancements"
 	]
 }

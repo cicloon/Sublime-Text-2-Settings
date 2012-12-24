@@ -11,12 +11,14 @@ The following packages are installed so far:
 * SASS
 * SidebarEnhacements
 * ERB Insert and toggle commands
-
+* Cucumber 
+* CoffeScript
+* SASS
 
 Usage
 -----
 
-Just download this repository to /Users/username/Library/Application Support/Sublime Text 2/Packages/User 
+Just clone this repository to /Users/<username>/Library/Application Support/Sublime Text 2/Packages/User 
 
 
 
