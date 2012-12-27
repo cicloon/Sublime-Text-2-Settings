@@ -14,6 +14,7 @@ The following packages are installed so far:
 * Cucumber 
 * CoffeScript
 * SASS
+* Rspec
 
 Usage
 -----
