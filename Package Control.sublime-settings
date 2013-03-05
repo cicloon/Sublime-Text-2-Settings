@@ -1,11 +1,12 @@
 {
-	"auto_upgrade_last_run": 1348231330,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"BracketHighlighter",
 		"CoffeeScript",
 		"Cucumber",
 		"ERB Insert and Toggle Commands",
+		"HTML2Haml",
 		"Modific",
 		"Package Control",
 		"RSpec",
